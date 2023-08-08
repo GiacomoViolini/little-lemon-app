@@ -23,8 +23,12 @@
 ## Screenshots
 
 ![Main1](images_readme/Main1.jpg)
+
 ![Main2](images_readme/Main2.jpg)
+
 ![LogIn1](images_readme/LogIn1.jpg)
+
 ![LogIn2](images_readme/LogIn2.jpg)
+
 ![Profile](images_readme/Profile.jpg)
 
